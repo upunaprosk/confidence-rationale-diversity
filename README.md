@@ -12,10 +12,10 @@
   </a>
 </p>
 
-Official implementation and reproducibility code for:
+This repository contains code for the paper:
 
-> **Are You Sure You’re Sure? On the Impact of Instruction Tuning on Confidence and Lexical Diversity**  
-> Irina Proskurina, Mayank Kumar, and Oyindolapo Olabisi Komolafe  
+**Are You Sure You’re Sure? On the Impact of Instruction Tuning on Confidence and Lexical Diversity**   
+Authors: Irina Proskurina, Mayank Kumar, and Oyindolapo Olabisi Komolafe   
 > Third Workshop on Uncertainty-Aware NLP, EMNLP 2026
 
 
